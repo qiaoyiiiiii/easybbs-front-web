@@ -1,0 +1,56 @@
+// /* color palette from <https://github.com/vuejs/theme> */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  font-weight: normal;
+}
+
+body{
+  margin: 0px;
+  padding: 0px;
+  background: rgb(246, 242, 242);
+}
+
+::-webkit-scrollbar{
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track{
+  background-color: #bfbfbf;
+  border-radius: 10px;
+}
+::-webkit-scrollbar-thumb:hover{
+  background: #bfbfbf;
+}
+::-webkit-scrollbar-corner{
+  background: #bfbfbf;
+}
+
+:root {
+  --link: #007fff;
+  --pink: #FF6699;
+  --text2: #61666d;
+  --icon: #9499a0;
+}
+
+a,
+.a-link{
+  text-decoration: none;
+  color: var(--link);
+  cursor: pointer;
+}
+.el-form-item{
+  align-items: center;
+}
+
+.container-body{
+  margin: 0px auto;
+  padding-top: 5px;
+}
+
+.el-badge__content.is-fixed{
+top: 5px;
+right: 15px;
+}
