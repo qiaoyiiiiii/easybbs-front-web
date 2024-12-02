@@ -27,3 +27,7 @@ npm run dev
 ```sh
 npm run build
 ```
+注册  ![image](https://github.com/user-attachments/assets/177d5ac9-edc1-4ec7-8547-d16a1a793688)
+登录  ![image](https://github.com/user-attachments/assets/068f6bf7-e7d2-44a9-92e3-21c10e561db4)
+主页面  ![image](https://github.com/user-attachments/assets/3fc49ae1-0a7f-4a72-9bef-9e2d967f1ba2)
+
